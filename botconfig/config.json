@@ -1,5 +1,5 @@
 {
-   "token": "ODQwOTg5NjY2MDU2NzMyNjgy.GT-pdr.kDTuRsTFED_DKvAus9mP-WB4JuTtpxAIVzRzuk",
+   "token": "",
    "prefix": "?",
    "ownerIDS": [
       "889491916440342539",
@@ -14,9 +14,9 @@
   "clientsettings": {
       "nodes": [
          {
-            "host": "lava.link",
-            "port": 80,
-            "password": "techboy"
+            "host": "",
+            "port": 2333,
+            "password": ""
 
          }
       ]
