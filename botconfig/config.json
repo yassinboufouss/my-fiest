@@ -1,0 +1,28 @@
+{
+   "token": "ODQwOTg5NjY2MDU2NzMyNjgy.GT-pdr.kDTuRsTFED_DKvAus9mP-WB4JuTtpxAIVzRzuk",
+   "prefix": "?",
+   "ownerIDS": [
+      "889491916440342539",
+      "651135429550014475"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds",
+      "text2": "By: manga.dev",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+  "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": "techboy"
+
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "39e1d1adbff547ae9526ac0cb8364e26",
+      "clientSecret": "6e0461d2fc594c53a1320baa05d45e54"
+   }
+}
